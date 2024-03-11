@@ -1,0 +1,18 @@
+nav{
+    background-color:#21222A;
+    display: flex;
+    align-items: center;
+    height: 90px;
+    padding: 20px 20px;
+    justify-content: space-between;
+}
+
+.logo-text{
+    display: flex;
+    align-items: center;
+}
+
+.title{
+    margin-left: 5px;
+    color: #61DAFB;
+}
